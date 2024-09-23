@@ -1,5 +1,3 @@
-Aqui está a documentação do projeto **Ningi Finance**, incluindo os detalhes do projeto de extensão:
-
 ---
 
 <p align="center">
